@@ -1,0 +1,126 @@
+13:28:06.215 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+13:28:06.503 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+13:28:07.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+13:28:07.294 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+13:52:56.333 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+13:52:56.576 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+13:52:57.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+13:52:57.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+13:54:11.663 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+13:54:11.779 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+13:54:18.865 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+13:54:18.868 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+14:01:39.143 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+14:01:39.259 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+14:01:44.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+14:01:44.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+14:05:55.389 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+14:05:55.585 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+14:05:56.462 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+14:05:56.468 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+14:34:27.135 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+14:34:27.278 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+14:34:30.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+14:34:30.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+17:10:11.644 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+17:10:11.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+17:10:12.535 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+17:10:12.541 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+21:21:31.888 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+21:21:32.082 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+21:21:32.766 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+21:21:32.773 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+21:23:59.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+21:23:59.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+21:24:08.216 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+21:24:08.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+14:25:09.465 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+14:25:09.778 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+14:25:10.367 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+14:25:10.375 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+14:25:15.192 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest***
+15:45:14.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+15:45:14.982 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+15:45:15.800 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+15:45:15.806 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+15:45:20.734 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest***
+15:46:30.151 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest***
+08:50:30.826 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+08:50:42.280 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+08:50:42.323 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+08:50:53.833 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+08:50:53.843 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+08:51:04.749 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+08:51:04.761 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+08:51:15.712 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+08:51:15.724 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:44:50.462 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:45:01.784 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:45:01.812 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:45:12.924 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:45:12.937 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:45:23.928 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:45:23.952 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:45:35.100 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:45:35.117 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+12:30:44.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+12:30:44.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+12:30:45.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+12:30:45.885 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+12:31:57.085 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting TC_001_AccountRegistationTest
+12:31:57.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+12:31:58.059 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registered link
+12:31:58.066 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+12:32:03.498 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest***
+12:35:07.465 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest***
+12:43:15.341 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest***
+11:12:15.524 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:12:26.777 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:12:26.803 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:12:37.889 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:12:37.894 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:12:48.796 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:12:48.799 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+11:12:59.736 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+11:12:59.741 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+21:17:28.227 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+21:17:39.545 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+21:17:39.569 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+21:17:50.426 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+21:17:50.431 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+21:18:01.444 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+21:18:01.449 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+21:18:12.421 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+21:18:12.426 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:30:53.596 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:31:05.190 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:31:05.220 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:31:16.536 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:31:16.546 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:31:30.208 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:31:30.213 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:31:41.782 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:31:41.793 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:44:08.091 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:44:20.098 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:44:20.134 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:44:32.732 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:44:32.734 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:46:32.537 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:46:43.530 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:46:43.543 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:46:54.282 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:46:54.286 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:47:05.022 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:47:05.025 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:47:15.725 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:47:15.727 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:48:23.654 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:48:34.675 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:48:34.735 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:48:45.887 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:48:45.890 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:48:56.638 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:48:56.639 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT
+22:49:07.361 [main] INFO  testCases.TC_003_LoginDDT - finished the TC_003_LoginDDT
+22:49:07.365 [main] INFO  testCases.TC_003_LoginDDT - Staring TC_003_LoginDDT

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="opencartSuite">
+<listeners>
+<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+  <test thread-count="5" name="opencartTest">
+   <parameter name="browser" value="Chrome"/>
+   
+    <classes>
+       <class name="testCases.TC_003_LoginDDT"/>
+    </classes>
+  </test> <!-- opencartTest -->
+</suite> <!-- opencartSuite -->
+ 
