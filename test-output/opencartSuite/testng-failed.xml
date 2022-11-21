@@ -6,19 +6,14 @@
   </listeners>
   <test thread-count="5" name="opencartTest(failed)">
     <parameter name="browser" value="Chrome"/>
-    <groups>
-      <run>
-        <include name="Sanity"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.TC_002_LoginTest">
+      <class name="testCases.TC_003_LoginDDT">
         <methods>
           <include name="tearDown"/>
-          <include name="test_login"/>
           <include name="setup"/>
+          <include name="test_loginDDT" invocation-numbers="4"/>
         </methods>
-      </class> <!-- testCases.TC_002_LoginTest -->
+      </class> <!-- testCases.TC_003_LoginDDT -->
     </classes>
   </test> <!-- opencartTest(failed) -->
 </suite> <!-- Failed suite [opencartSuite] -->

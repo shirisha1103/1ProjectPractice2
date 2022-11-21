@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 62.85 s <<< FAILURE! - in TestSuite
-testCases.TC_003_LoginDDT.test_loginDDT[abc123@gmail.com, test@123, Valid](5)  Time elapsed: 10.924 s  <<< FAILURE!
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 65.015 s <<< FAILURE! - in TestSuite
+testCases.TC_003_LoginDDT.test_loginDDT[abc123@gmail.com, test@123, Valid](5)  Time elapsed: 11.327 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
 	at org.testng.Assert.fail(Assert.java:110)
 	at org.testng.Assert.failNotEquals(Assert.java:1413)
